@@ -1,0 +1,10 @@
+E:\vs2019code\PythonApplication1\ConsoleApp1_r\bin\Debug\ConsoleApp1_r.exe.config
+E:\vs2019code\PythonApplication1\ConsoleApp1_r\bin\Debug\ConsoleApp1_r.exe
+E:\vs2019code\PythonApplication1\ConsoleApp1_r\bin\Debug\ConsoleApp1_r.pdb
+E:\vs2019code\PythonApplication1\ConsoleApp1_r\bin\Debug\WebDriver.dll
+E:\vs2019code\PythonApplication1\ConsoleApp1_r\bin\Debug\WebDriver.xml
+E:\vs2019code\PythonApplication1\ConsoleApp1_r\obj\Debug\ConsoleApp1_r.csproj.CoreCompileInputs.cache
+E:\vs2019code\PythonApplication1\ConsoleApp1_r\obj\Debug\ConsoleApp1_r.csproj.CopyComplete
+E:\vs2019code\PythonApplication1\ConsoleApp1_r\obj\Debug\ConsoleApp1_r.exe
+E:\vs2019code\PythonApplication1\ConsoleApp1_r\obj\Debug\ConsoleApp1_r.pdb
+E:\vs2019code\PythonApplication1\ConsoleApp1_r\obj\Debug\ConsoleApp1_r.csprojAssemblyReference.cache
